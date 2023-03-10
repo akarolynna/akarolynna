@@ -1,7 +1,8 @@
 ### Olá, me chamo Anna Karolynna 👋
 
 🌱 Atualmente estou estudando JavaScript, Java e Banco de Dados Mysql <br>
-😄 Pronouns: ela/dela <br>
+😄 Pronouns: ela/dela <br> 
+👩🏽‍💻 Idiomas: fluente em Português, Intermediária em Inglês e Espanhol!
 
 
 <div>

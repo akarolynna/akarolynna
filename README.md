@@ -1,7 +1,10 @@
 ### Olá, me chamo Anna Karolynna 👋
 
-🌱 Atualmente estou estudando Angular e TypeScript <br>
-👩🏽‍💻 Idiomas: fluente em Português, Intermediária em Inglês e Espanhol!
+👩‍🎓 Rediscovering new ways of programming. In the beginning, programming seemed like a daunting paradigm in my mind, but as we make room for it, it becomes like riding a bicycle – once we learn, we never forget 💙 <br>
+
+🌱 Currently, I'm studying Angular and TypeScript. <br>
+
+👩🏽‍💻 Languages: Fluent in Portuguese, Intermediate in English and Spanish!
 
 
 <div>
@@ -15,7 +18,7 @@
    <img  align="center" alt="Anna-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
       <img align="center" alt="Anna-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
-  <img align="right" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_jBpUbNhh.png">
+  <img align="right" alt="Anna-pic" height="150" style="border-radius:50 px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_jBpUbNhh.png">
 </div>
   
   ##

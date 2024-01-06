@@ -1,4 +1,4 @@
-### Olá, me chamo Anna Karolynna 👋
+### Hello, my name is Anna Karolynna 👋
 
 👩‍🎓 Rediscovering new ways of programming. In the beginning, programming seemed like a daunting paradigm in my mind, but as we make room for it, it becomes like riding a bicycle – once we learn, we never forget 💙 <br>
 

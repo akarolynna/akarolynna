@@ -35,37 +35,38 @@ My current focus is on **JavaScript and SQL**, while I also work with Python and
 
 ---
 
-## 🌱 Beyond the Code
+<div align="center">
 
+## 🌱 Beyond the Code
 <table>
   <tr>
-    <td width="55">
-      <img src="https://img.shields.io/badge/🎓-20A44A?style=flat-square" alt="Education">
+    <td align="center" width="33%">
+      <h3>🎓</h3>
+      <strong>Informatics</strong>
+      <br><br>
+      Technical Degree
+      <br>
+      <sub>Instituto Federal Fluminense</sub>
     </td>
-    <td>
-      **Technical Degree in Informatics**<br>
-      Instituto Federal Fluminense
+    <td align="center" width="33%">
+      <h3>📚</h3>
+      <strong>Information Systems</strong>
+      <br><br>
+      Bachelor's Degree
+      <br>
+      <sub>Currently completing at IFF</sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/📚-20A44A?style=flat-square" alt="Studies">
-    </td>
-    <td>
-      **Bachelor's degree in Information Systems**<br>
-      Currently completing my studies at IFF
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/👩‍🏫-20A44A?style=flat-square" alt="Teaching">
-    </td>
-    <td>
-      **Programming tutor and intern**<br>
-      Helping students learn programming logic and algorithm development
+    <td align="center" width="33%">
+      <h3>👩🏻‍💻</h3>
+      <strong>Teaching & Mentoring</strong>
+      <br><br>
+      Programming Tutor
+      <br>
+      <sub>Logic and algorithm development</sub>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 

@@ -1,31 +1,60 @@
-### Hello, my name is Anna Karolynna 👋
+# Hey, I'm Anna Karolynna! 👋💚
 
-👩‍🎓 Rediscovering new ways of programming. In the beginning, programming seemed like a daunting paradigm in my mind, but as we make room for it, it becomes like riding a bicycle – once we learn, we never forget 💙 <br>
+**Junior Developer · Front-end Development · Software Development**
 
-🌱 Currently, I'm studying Angular and TypeScript. <br>
+I'm currently completing my Bachelor's degree in **Information Systems at the Federal Fluminense Institute (IFF)**, where my journey in technology began with a Technical Degree in Informatics integrated with High School.
 
-👩🏽‍💻 Languages: Fluent in Portuguese, Intermediate in English and Spanish!
+Over time, programming has become much more than writing code. Through personal projects, academic work, and teaching, I've learned to understand algorithms, analyze code, and explain programming concepts to other students.
 
+Currently, I work as an intern at IFF, where I also provide programming tutoring, helping students develop logical reasoning and problem-solving skills through algorithms.
 
-<div>
-<a href="https://github.com/akarolynna">
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+My current focus is on **JavaScript and SQL**, while I also work with Python and Django in academic projects. I'm always looking to expand my knowledge, improve my skills, and grow as a software developer. 🌱
+
+---
+
+## 💻 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,django,mysql,postgres,git,github,vscode" alt="Technologies and tools" />
+</p>
+
+<p>
+  <strong>Currently focusing on:</strong> JavaScript, SQL, Python, and front-end development.
+  <br>
   
-  <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Anna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-   <img  align="center" alt="Anna-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-      <img align="center" alt="Anna-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-          
-  <img align="right" alt="Anna-pic" height="150" style="border-radius:50 px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_jBpUbNhh.png">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/karolynna7777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "annakarolynnasouza8181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-  
-</div>
+---
+
+## 🌱 Beyond the Code
+
+- 🎓 **Technical Degree in Informatics** — Instituto Federal Fluminense.
+- 📚 **Bachelor's degree in Information Systems** — currently completing my studies at IFF.
+- 👩‍🏫 **Programming tutor and intern** — helping students learn programming logic and algorithm development.
+
+---
+
+## 🤝 Let's Connect!
+
+  <a href="https://github.com/akarolynna">
+    <img src="https://img.shields.io/badge/GitHub-akarolynna-20A44A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+  <a href="mailto:annakarolynnaalmeida@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-20A44A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
+  </a>
+</p>
+---
+
+## 🧠 Always Practicing
+
+I use **Beecrowd** to solve programming challenges, practice algorithmic thinking, and keep improving my problem-solving skills one problem at a time.
+
+<p align="left">
+  <a href="https://www.beecrowd.com.br/">
+    <img src="https://img.shields.io/badge/Beecrowd-Practice%20%26%20Learn-20A44A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Beecrowd programming challenges">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Learning to code is a journey. Learning to understand it changes everything. 💚</strong>
+</p>
